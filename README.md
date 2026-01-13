@@ -199,6 +199,24 @@ This project is open source and available under the MIT License.
 Hackathon Project: **SRM IST × NOOBTRON — NOOB HACKFEST**
 
 
+## 👥 Team Members
+
+- **Danish M** — AI/ML Developer & Integration  
+  Implemented the core emotion pipeline (face + audio processing), multimodal fusion logic, and integrated key modules into the working application.
+
+- **Chidarth H** — UI/UX & Dashboard Support  
+  Supported dashboard layout planning, user flow design, and UI feature suggestions for live monitoring.
+
+- **Deepban T** — Research & Feature Design  
+  Worked on problem research, identifying real-world use cases, and defining feature requirements for a practical solution.
+
+- **Jothik Rithin Bio J** — Testing & Validation  
+  Contributed to testing the application workflow, identifying edge cases, and improving demo stability.
+
+- **Deepak T A** — Documentation & Presentation  
+  Assisted with README preparation, pitch content structuring, and hackathon submission formatting.
+
+
 
 
 ---
