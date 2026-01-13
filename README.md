@@ -195,6 +195,7 @@ This project is open source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Danish** — B.Tech Artificial Intelligence and Data Science 
+
 Hackathon Project: **SRM IST × NOOBTRON — NOOB HACKFEST**
 
 
