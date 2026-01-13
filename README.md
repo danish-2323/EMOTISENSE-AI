@@ -201,13 +201,13 @@ Hackathon Project: **SRM IST × NOOBTRON — NOOB HACKFEST**
 
 ## 👥 Team Members
 
-- **Danish M** — AI/ML Developer & Integration  
+- **Danish M**(Team Lead) — AI/ML Developer & Integration  
   Implemented the core emotion pipeline (face + audio processing), multimodal fusion logic, and integrated key modules into the working application.
 
 - **Chidarth H** — UI/UX & Dashboard Support  
   Supported dashboard layout planning, user flow design, and UI feature suggestions for live monitoring.
 
-- **Deepban T** — Research & Feature Design  
+- **Deephan T** — Research & Feature Design  
   Worked on problem research, identifying real-world use cases, and defining feature requirements for a practical solution.
 
 - **Jothik Rithin Bio J** — Testing & Validation  
