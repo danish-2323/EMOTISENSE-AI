@@ -189,10 +189,17 @@ pip install sounddevice --upgrade
 This project is open source and available under the MIT License.
 
 
-👨‍💻 Author
+---
 
-Danish — B.Tech Artificial Intelligence
-Hackathon: SRM IST × NOOBTRON — NOOB HACKFEST
+
+## 👨‍💻 Author
+
+**Danish** — B.Tech Artificial Intelligence  
+Hackathon Project: **SRM IST × NOOBTRON — NOOB HACKFEST**
+
+
+
+
 ---
 
 **Built for hackathons, designed for impact.** 🚀
