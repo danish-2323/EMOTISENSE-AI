@@ -160,14 +160,6 @@ AUDIO_WEIGHT = 0.4
 3. **Library Errors**: Graceful degradation with default values
 4. **Complete Simulation**: Toggle for full demo mode without hardware
 
-## 🎯 Hackathon Ready
-
-- **Single Command Setup**: `pip install -r requirements.txt && streamlit run app.py`
-- **Demo Mode**: Simulation toggle for presentations without hardware
-- **Stable Performance**: Robust error handling and fallback systems
-- **Professional UI**: Clean Streamlit interface with real-time updates
-- **Export Capabilities**: CSV and PDF reports for judges/stakeholders
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -196,13 +188,12 @@ pip install sounddevice --upgrade
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+👨‍💻 Author
 
+Danish — B.Tech Artificial Intelligence
+Hackathon: SRM IST × NOOBTRON — NOOB HACKFEST
 ---
 
 **Built for hackathons, designed for impact.** 🚀
+
